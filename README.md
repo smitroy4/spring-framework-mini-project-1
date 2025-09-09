@@ -8,7 +8,7 @@ Understanding project structure
 Preparing the foundation for future features
 This project is part of a series on the CodeOfClarity YouTube channel, where I document and share my learning journey in Spring and Java development.
 
-📂 Project Structure
+[] Project Structure
 spring-project-part1/
 
 ├── src/
