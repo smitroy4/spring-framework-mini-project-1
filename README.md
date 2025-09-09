@@ -27,7 +27,7 @@ spring-project-part1/
 
 Tech Stack
 
-- Java
+- Java 21
 - Spring Framework
 - Maven
 - IntelliJ IDEA
