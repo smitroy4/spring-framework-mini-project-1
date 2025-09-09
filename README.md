@@ -10,13 +10,21 @@ This project is part of a series on the CodeOfClarity YouTube channel, where I d
 
 📂 Project Structure
 spring-project-part1/
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── java/
+
 │   │   └── resources/
+
 │   └── test/
+
 ├── pom.xml
+
 └── README.md
+
 
 Tech Stack
 
